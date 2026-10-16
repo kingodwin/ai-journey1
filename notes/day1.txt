@@ -1,0 +1,8 @@
+pwd = shows me where i am
+ls = lists files
+cd = moves me to into another folder
+mkdir = make a folder for ai-journey
+touch = create a file
+cp = copy from course1 to course2
+mv = rename files from course8 to course8-capstone
+rm = rm a file
